@@ -1,6 +1,7 @@
 # Downloaded competition data and generated outputs
 /data/
 /models/
+/gemma-4-31b-it-qat-w4a16-ct/
 /downloads/
 /results/
 /submission.zip
