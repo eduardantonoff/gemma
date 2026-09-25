@@ -1,0 +1,15 @@
+# Downloaded competition data and generated outputs
+/data/
+/models/
+/downloads/
+/results/
+/submission.zip
+
+# Local credentials and machine-specific files
+.env
+.env.*
+!.env.example
+.kaggle/
+__pycache__/
+*.py[cod]
+.DS_Store
